@@ -1,0 +1,82 @@
+/* Cruz Morales Johan Demetrio
+ Vizzuett Peña Mayra Carolina
+ Zuñiga Angeles Luis Fernando */
+
+ html {
+     font-size: 100%;
+     font-family: Arial, Helvetica, sans-serif;
+     background-color:
+        #000;
+     color:
+        #fff;
+     height: 100%;
+    
+}
+
+.bloqueEnlace {
+    margin-bottom: 50px;
+}
+
+a.enlace {
+    color:#00cd4b;
+    margin-bottom: 50px;
+}
+
+h2 {
+    color:   #e2e2e2;
+    text-align: center;
+}
+
+.parrafo {
+    outline-style: dashed;
+    padding: 50px;
+    text-align: center;
+    color:#127;
+}
+
+.parrafo1 {
+    text-align: right;
+    outline-style: dotted;
+    outline-width: 4px;
+    outline-color:tomato;
+    outline-offset: 20px;
+    padding: 50px;
+    border: 1px solid #fff;
+}
+
+.parrafo2 {
+    margin-top: 50px;
+    font-style: italic;
+    font-size: 30px;
+    color:red 50
+}
+
+h1.subtitulo {
+    margin: 200px 0 0 0;
+    color:aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+p.formato {
+    color:  purple;
+    font-size: 100%;
+    padding: 80px;
+}
+
+* {
+    text-align: center;
+}
+
+h1,
+h2,
+h3 {
+    font-size: 250%;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 50px;
+}
+
+.ultimoParrafo {
+    outline: 1px solid;
+    padding: 50px;
+}
